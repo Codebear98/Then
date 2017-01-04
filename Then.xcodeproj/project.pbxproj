@@ -20,7 +20,7 @@
 		C43F90D11C3C289B008185BF /* Then.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033909F81C344E6700EDFB89 /* Then.swift */; };
 		C43F90DF1C3C2953008185BF /* Then.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033909F81C344E6700EDFB89 /* Then.swift */; };
 		F8DA304C1E1CD2F800F0D187 /* Then.h in Headers */ = {isa = PBXBuildFile; fileRef = F8DA304A1E1CD2F800F0D187 /* Then.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F8DA30501E1CD31F00F0D187 /* Then.h in Headers */ = {isa = PBXBuildFile; fileRef = 033909F71C344E6700EDFB89 /* Then.h */; };
+		F8DA30501E1CD31F00F0D187 /* Then.h in Headers */ = {isa = PBXBuildFile; fileRef = 033909F71C344E6700EDFB89 /* Then.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F8DA30511E1CD31F00F0D187 /* Then.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033909F81C344E6700EDFB89 /* Then.swift */; };
 /* End PBXBuildFile section */
 
