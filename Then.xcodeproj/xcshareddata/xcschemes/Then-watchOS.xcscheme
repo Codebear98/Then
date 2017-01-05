@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F8DA30471E1CD2F800F0D187"
-               BuildableName = "Then-watchOS.framework"
+               BuildableName = "Then.framework"
                BlueprintName = "Then-watchOS"
                ReferencedContainer = "container:Then.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F8DA30471E1CD2F800F0D187"
-            BuildableName = "Then-watchOS.framework"
+            BuildableName = "Then.framework"
             BlueprintName = "Then-watchOS"
             ReferencedContainer = "container:Then.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F8DA30471E1CD2F800F0D187"
-            BuildableName = "Then-watchOS.framework"
+            BuildableName = "Then.framework"
             BlueprintName = "Then-watchOS"
             ReferencedContainer = "container:Then.xcodeproj">
          </BuildableReference>
